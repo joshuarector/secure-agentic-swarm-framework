@@ -1,0 +1,10 @@
+# Python runtime and environment artifacts
+__pycache__/
+*.pyc
+.venv/
+.uv/
+
+# Local execution telemetry and logs (keep your repo pristine)
+input_violations.json
+output/
+*.log
